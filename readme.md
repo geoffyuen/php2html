@@ -7,6 +7,11 @@ They will also rename .php links inside the files and change them to .html.
 
 Tested on OSX only.
 
-## Usage:
+## Why
+
+- Use php includes for your footers and headers - reduces inconsistency in your html
+- Build image galleries using simple loops in php
+
+## Usage
 
 In the directory containing your scripts, execute the script and it will batch convert all the files.
